@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hash Generator</string>
+    <string-array name="hashing_algorithms">
+        <item>SHA-256</item>
+        <item>SHA-512</item>
+        <item>MD5
+        </item>
+    </string-array>
+</resources>
